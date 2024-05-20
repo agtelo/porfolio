@@ -12,7 +12,6 @@ import framerIcon from "../assets/icons/framer.svg";
 import { useEffect, useRef } from "react";
 import { useInView, motion } from "framer-motion";
 import { Divider } from "@nextui-org/react";
-import bg1 from "../assets/images/bbblurry3.svg";
 import Image from "next/image";
 
 export default function Skills() {
