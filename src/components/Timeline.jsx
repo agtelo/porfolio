@@ -38,7 +38,7 @@ const items = [
   },
 ];
 
-export default function TimeLine() {
+export default function Timeline() {
   const chronoKey = useRef(Math.random().toString(36).substring(7)).current;
   return (
     <Chrono

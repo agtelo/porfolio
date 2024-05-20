@@ -1,5 +1,5 @@
 import React from "react";
-import Timeline from "./TimeLine";
+import Timeline from "./Timeline";
 
 export default function Experience() {
   return (
